@@ -6,3 +6,1147 @@ case "这是一个风神瞳" :
 case "这是一个岩神瞳" :
         prop.popupContent = "바위신의 눈동자 이다.";
         break;
+
+case " 从旁边山坡上开风场获取" :
+        prop.popupContent = "인근 언덕에서 윈드 필드를 전개해 획득";
+        break;
+
+case "这是一个地灵龛" :
+        prop.popupContent = "지령감실 이다.";
+        break;
+
+case " 这是一个地灵龛，从下边水流进入洞穴" :
+        prop.popupContent = "지령감실 이다. 아래의 물이 흐르는 동굴로부터 발견";
+        break;
+
+case "这里有3颗绝云椒椒" :
+        prop.popupContent = "절운고추 3개다.";
+        break;
+
+case "这里有一束霓裳花" :
+        prop.popupContent = "예상화 1개다.";
+        break;
+
+case "这是一株琉璃百合" :
+        prop.popupContent = "유리백합 1개다.";
+        break;
+
+case "这是一个钩钩果" :
+        prop.popupContent = "고리고리 열매 1개다.";
+        break;
+
+case "这是一个嘟嘟莲" :
+        prop.popupContent = "통통연꽃 1개다.";
+        break;
+
+case "这是一个塞西莉亚花" :
+        prop.popupContent = "세실리아꽃 1개다.";
+        break;
+
+case "这是一个慕风蘑菇" :
+        prop.popupContent = "바람버섯 1개다.";
+        break;
+
+case "这是一个落落梅" :
+        prop.popupContent = "낙락베리 1개다.";
+        break;
+
+case "这是一个风车菊" :
+        prop.popupContent = "풍차국화 1개다.";
+        break;
+
+case "这是一个蒲公英籽" :
+        prop.popupContent = "민들레 씨앗 1개다.";
+        break;
+
+case "这是一个夜泊石" :
+        prop.popupContent = "야박석 1개다.";
+        break;
+
+case "这是一个石珀" :
+        prop.popupContent = "콜 라피스 1개다.";
+        break;
+
+case "山洞中的一个石珀" :
+        prop.popupContent = "산 동굴 속의 콜 라피스 1개다.";
+        break;
+
+case "这是一个水晶矿" :
+        prop.popupContent = "수정덩이 1개다.";
+        break;
+
+case "这是一个白铁矿" :
+        prop.popupContent = "철광석 1개다.";
+        break;
+
+case "这是一个遗迹守卫" :
+        prop.popupContent = "유적 가디언 1마리다.";
+        break;
+
+case "这是一个遗迹猎者" :
+        prop.popupContent = "유적 헌터 1마리다.";
+        break;
+
+case "这是一个雷萤术士" :
+        prop.popupContent = "번개 치친 술사 1마리다.";
+        break;
+
+case "这是一个债务处理人" :
+        prop.popupContent = "채무처리인 1마리다.";
+        break;
+
+case "这是一个深渊法师" :
+        prop.popupContent = "심연메이지 1마리다.";
+        break;
+
+case " 这是一个火深渊法师" :
+        prop.popupContent = "심연메이지(불) 1마리다.";
+        break;
+
+case "这是一个冰深渊法师" :
+        prop.popupContent = "심연메이지(얼음) 1마리다.";
+        break;
+
+case " 这是一个水深渊法师" :
+        prop.popupContent = "심연메이지(물) 1마리다.";
+        break;
+
+case "这是一个山洞中的火深渊法师" :
+        prop.popupContent = "산 동굴 속의 심연메이지(불) 1마리다.";
+        break;
+
+case "山下矿洞里面的冰深渊法师" :
+        prop.popupContent = "광산 속의 심연메이지(빙) 1마리다.";
+        break;
+
+case " 攻击此处的丘丘人设施并击败出现的全部火史莱姆会出现火深渊法师" :
+        prop.popupContent = "츄츄족 시설을 공격하여 파괴하면 슬라임과 심연메이지(불) 이 출현한다.";
+        break;
+
+case "这是一个大型丘丘人" :
+        prop.popupContent = "츄츄 바위왕 1마리다.";
+        break;
+
+case "这是一个丘丘岩盔王" :
+        prop.popupContent = "츄츄 바위왕 1마리다.";
+        break;
+
+case "这是一个蒙德宝箱" :
+        prop.popupContent = "몬드 보물상자 이다.";
+        break;
+
+case "悬崖底下，破坏岩石后出现的隐藏宝箱" :
+        prop.popupContent = "벼랑 아래 파괴 가능한 바위를 파괴후 보물상자가 출현한다.";
+        break;
+
+case "在山顶有怪物守护着的宝箱" :
+        prop.popupContent = "산 꼭대기에서 몬스터가 보물상자를 지키고 있다.";
+        break;
+
+case "摘取4个胡萝卜" :
+        prop.popupContent = "당근 4개를 뽑을 수 있다.";
+        break;
+
+case "仙灵宝箱" :
+        prop.popupContent = "선령 보물상자.";
+        break;
+
+case "在地面，破坏岩石后出现" :
+        prop.popupContent = "파괴 가능한 바위를 파괴후 출현.";
+        break;
+
+case "拔起四个胡萝卜后出现的隐藏宝箱" :
+        prop.popupContent = "당근 4개를 뽑은 후 보물상자가 출현한다.";
+        break;
+
+case "角落里" :
+        prop.popupContent = "모퉁이 안에.";
+        break;
+
+case "燃起来啦！" :
+        prop.popupContent = "불타오르라.";
+        break;
+
+case "悬崖下石柱上的宝箱" :
+        prop.popupContent = "절벽 아래 돌 기둥위의 보물상자.";
+        break;
+
+case "射爆绕树的四只风史莱姆后出现的隐藏宝箱" :
+        prop.popupContent = "바람 슬라임 4마리를 맞추면 보물상자가 출현한다.";
+        break;
+
+case "藏在山腰的岩石后面的隐藏宝箱" :
+        prop.popupContent = "산중턱 바위 뒤 쪽에 보물상자가 숨겨져있다.";
+        break;
+
+case "需要三个仙灵的仙灵宝箱" :
+        prop.popupContent = "선령 보물상자 3개가 필요하다.";
+        break;
+
+case "点燃三个火炬后出现的隐藏宝箱" :
+        prop.popupContent = "횃불 3개 점화 후 보물상자가 출현한다.";
+        break;
+
+case "怪物守护着的宝箱" :
+        prop.popupContent = "몬스터가 보물상자를 지키고 있다..";
+        break;
+
+case "仙灵宝箱" :
+        prop.popupContent = "선령 보물상자.";
+        break;
+
+case "打爆石门上的两只风史莱姆后出现的隐藏宝箱" :
+        prop.popupContent = "돌문위의 바람 슬라임 2마리를 터트리면 보물상자가 출현한다.";
+        break;
+
+case "挑战宝箱" :
+        prop.popupContent = "도전 보물상자.";
+        break;
+
+case "需要两个仙灵的仙灵宝箱" :
+        prop.popupContent = "선령 보물상자가 2개 필요하다.";
+        break;
+
+case "荆棘宝箱" :
+        prop.popupContent = "가시나무 보물상자.";
+        break;
+
+case "用弓箭射爆三只风史莱姆后出现的隐藏宝箱" :
+        prop.popupContent = "활을 이용해 바람 슬라임 3마리를 맞춘후 보물상자가 출현한다.";
+        break;
+
+case "在山脚角落里的宝箱" :
+        prop.popupContent = ".";
+        break;
+
+case "在山脚角落里的宝箱" :
+        prop.popupContent = "산기슭 구석에 보물상자가 있다.";
+        break;
+
+case "藏在山腰角落里的可见宝箱" :
+        prop.popupContent = "산중턱 구석에서 보물상자를 발견 할 수 있다.";
+        break;
+
+case "在树上的仙灵宝箱" :
+        prop.popupContent = "나무위에 선령 보물상자가 있다.";
+        break;
+
+case "广场小游戏宝箱" :
+        prop.popupContent = "광장 미니게임 보물상자.";
+        break;
+
+case "这是一个华丽宝箱" :
+        prop.popupContent = "화려한 보물상자 이다.";
+        break;
+
+case " 这是一个普通宝箱" :
+        prop.popupContent = "평범한 보물상자 이다.";
+        break;
+
+case "跟随仙灵出现的【精致宝箱】" :
+        prop.popupContent = "선령을 따라가면 [정교한 보물상자]가 출현한다.";
+        break;
+
+case "击败怪物解锁的【普通宝箱】无原石" :
+        prop.popupContent = "몬스터 처치후 오픈 가능한 평범한 [보물상자](원석 없음).";
+        break;
+
+case "类型：隐藏宝箱" :
+        prop.popupContent = "종류 : 숨겨진 보물상자.";
+        break;
+
+case "备注：把排成正方形的四个胡萝卜捡起后，清除小怪后出现" :
+        prop.popupContent = "각주 : 정사각형으로 배치된 당근을 뽑으면 출현하는 몬스터를 처치 후 출현.";
+        break;
+
+case "这是一个击败怪物解锁的【普通宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [평범한 보물상자].";
+        break;
+
+case "这是一个可以直接拾取的【普通宝箱】" :
+        prop.popupContent = "조건 없이 오픈 가능한 [평범한 보물상자].";
+        break;
+
+case "类型：仙灵宝箱" :
+        prop.popupContent = "종류 : 선령 보물상자.";
+        break;
+
+case "备注：需要跑到蒲公英，打死一些小怪后出现" :
+        prop.popupContent = "각주 : 민들레 상호작용으로 출현한 몬스터를 처치 후 출현.";
+        break;
+
+case "这是一个击败怪物获得的【普通宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [평범한 보물상자].";
+        break;
+
+case "这是一个射爆风史莱姆出现的【精致宝箱】" :
+        prop.popupContent = "바람 슬라임 처치 후 오픈 가능한 [정교한 보물상자].";
+        break;
+
+case "这是一个跟随仙灵获得的精致宝箱" :
+        prop.popupContent = "선령을 따라가서 획득 가능한 [정교한 보물상자].";
+        break;
+
+case "击败怪物解锁的【精致宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [정교한 보물상자].";
+        break;
+
+case "备注：破解元素机关后出现（火雷冰）" :
+        prop.popupContent = "각주 : 원소기둥 퍼즐 해결 후 출현(불 전기 얼음).";
+        break;
+
+case "备注：破坏岩石后出现" :
+        prop.popupContent = "각주 : 파괴 가능한 바위 파괴 후 출현.";
+        break;
+
+case "这是一个飞行挑战获得的【精致宝箱】" :
+        prop.popupContent = "비행 도전 후 오픈 가능한 [정교한 보물상자].";
+        break;
+
+case "这是一个击败怪物出现的【精致宝箱】" :
+        prop.popupContent = "몬스터 처치 후 출현하는 [정교한 보물상자].";
+        break;
+
+case "这是一个击败风史莱姆解锁的【精致宝箱】" :
+        prop.popupContent = "바람 슬라임 처치 후 오픈 가능한 [정교한 보물상자].";
+        break;
+
+case "这是一个蒙德宝箱挑战" :
+        prop.popupContent = "몬드 보물상자 도전 이다.";
+        break;
+
+case "这是一个露天的【普通宝箱】" :
+        prop.popupContent = "야외의 [평범한 보물상자].";
+        break;
+
+case "拾取日落果" :
+        prop.popupContent = "일몰열매 획득 가능.";
+        break;
+
+case "首次击杀此处风史莱姆" :
+        prop.popupContent = "먼저 바람 슬라임을 처치하자.";
+        break;
+
+case "类型：可见宝箱" :
+        prop.popupContent = "종류 : 발견 가능한 보물상자";
+        break;
+
+case "备注：位于山脚的角落里" :
+        prop.popupContent = "각주 : 산기슭 구석에 위치해 있다.";
+        break;
+
+case "备注：打掉路边小石柱后，打一个小怪出现" :
+        prop.popupContent = "길가의 작은 돌기둥 파괴 후 출현하는 몬스터 처치 후 출현.";
+        break;
+
+case "备注：破坏山脚的可岩石后出现" :
+        prop.popupContent = "각주 : 산기슭의 파괴 가능한 바위 파괴 후 출현";
+        break;
+
+case "备注：破坏岩石后出现" :
+        prop.popupContent = "각주 : 파괴 가능한 바위 파괴 후 출현";
+        break;
+
+case "这是一个怪物宝箱" :
+        prop.popupContent = "괴물 보물상자 이다.";
+        break;
+
+case "备注：把三只风史莱姆打破后出现" :
+        prop.popupContent = "각주 : 바람 슬라임 3마리 처치 후 출현";
+        break;
+
+case "备注：用火点燃附近三个火炬后出现" :
+        prop.popupContent = "각주 : 불 원소를 이용해 근처의 불 기둥 3개에 불을 붙인 후 출현";
+        break;
+
+case "三个仙灵汇聚的宝箱" :
+        prop.popupContent = "선령 3마리가 모인 후 출현하는 보물상자.";
+        break;
+
+case "这是一个可以直接开启的【普通宝箱】" :
+        prop.popupContent = "조건 없이 오픈 가능한 [평범한 보물상자].";
+        break;
+
+case "这是一个击败怪物解锁的【精致宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个跟随仙灵获得的【精致宝箱】" :
+        prop.popupContent = "선령을 따라가 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个可以直接开启的【普通宝箱】无原石" :
+        prop.popupContent = "조건 없이 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case " 这是一个可以直接获取的【精致宝箱】" :
+        prop.popupContent = "조건 없이 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个击碎石头跟随仙灵获得的【精致宝箱】" :
+        prop.popupContent = "바위를 파괴후 나오는 선령을 따라가 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个击败暴徒丘解锁的【精致宝箱】" :
+        prop.popupContent = "츄츄 폭도 처치 후 오픈 가능한 [정교한 보물상자].";
+        break;
+
+case "备注：解开元素机关后出现（顺序：火雷冰" :
+        prop.popupContent = "각주 : 원소기둥 퍼즐 해결 후 출현(순서 : 불 전기 얼음)";
+        break;
+
+case "打碎周围四个木桶出现" :
+        prop.popupContent = "주위 나무통 4개 파괴 후 출현.";
+        break;
+
+case "备注：破坏地上的岩石后出现" :
+        prop.popupContent = "각주 : 땅 위의 암석 파괴 후 출현";
+        break;
+
+case "备注：仙灵在石墙的上面" :
+        prop.popupContent = "각주 : 선령은 돌벽 위에 있다.";
+        break;
+
+case "备注：位于山脚的岩石中，破坏后出现" :
+        prop.popupContent = "각주 : 산기슭에 위치한 파괴 가능한 바위 파괴 후 출현";
+        break;
+
+case "备注：还需要一个仙灵，在宝箱的正北方不远的山坡上" :
+        prop.popupContent = "각주 : 보물상자 북쪽의 멀지 않은 언덕위의 선령이 필요하다.";
+        break;
+
+case "这是一个激活风元素方碑击败怪物解锁的【珍贵宝箱】" :
+        prop.popupContent = "바람 원소 기둥 반응 후 출현하는 몬스터 처치 후 오픈 가능한 [진귀한 보물상자]";
+        break;
+
+case "跑到该点后出现史莱姆，打倒史莱姆后出现的隐藏宝箱" :
+        prop.popupContent = "지정된 지점으로 가면 슬라임이 출현하며, 슬라임 처치 후 숨겨진 보물상자가 출현한다.";
+        break;
+
+case "备注：打到树旁的风史莱姆后出现" :
+        prop.popupContent = "각주 : 나무위의 바람 슬라임 처치 후 출현.";
+        break;
+
+case "类型：挑战宝箱" :
+        prop.popupContent = "종류 : 도전 보물상자.";
+        break;
+
+case "备注：破坏山顶的可岩石后出现" :
+        prop.popupContent = "각주 : 산꼭대기의 파괴 가능한 바위 파괴 후 출현.";
+        break;
+
+case "备注：打倒冰史莱姆后出现" :
+        prop.popupContent = "각주 : 얼음 슬라임 처치 후 출현.";
+        break;
+
+case "击败愚人众敌人" :
+        prop.popupContent = "우인단을 공격하라.";
+        break;
+
+case "隐藏宝箱，用弓箭打破三个气球后出现" :
+        prop.popupContent = "숨겨진 보물상자, 바람 슬라임 처치 후 출현";
+        break;
+
+case "拔了正方形萝卜后出现的隐藏宝箱" :
+        prop.popupContent = "정사각형의 무를 뽑은 후 숨겨진 보물상자 출현.";
+        break;
+
+case "到达点位挖掘宝箱即可" :
+        prop.popupContent = "지정 지역 도착 후 보물상자 발굴.";
+        break;
+
+case "到达点位点燃火堆即可" :
+        prop.popupContent = "지정 지역에 횃불에 불을 붙이면 된다.";
+        break;
+
+case "竖直墙壁上方的宝箱" :
+        prop.popupContent = "벽 위의 보물상자.";
+        break;
+
+case "这是一个蒙德挖掘宝箱" :
+        prop.popupContent = "몬드 보물상자(발굴).";
+        break;
+
+case "备注：藏在草里" :
+        prop.popupContent = "각주 : 풀더미에 숨겨져 있다.";
+        break;
+
+case "三跳雷宝箱（踩踏藏在草里的三角形跳雷后击败冰霜骗骗花后出现）" :
+        prop.popupContent = ".";
+        break;
+
+case "这是一个璃月宝箱" :
+        prop.popupContent = "리월 보물상자 이다.";
+        break;
+
+case "支线任务的所有相关宝箱" :
+        prop.popupContent = "퀘스트와 관계된 모든 보물상자";
+        break;
+
+case "击败幼岩龙蜥解锁的【精致宝箱】" :
+        prop.popupContent = "새끼 바위 용 도마뱀을 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "激活周围三处岩元素方碑出现的【精致宝箱】" :
+        prop.popupContent = "주위의 원소기둥 3개 활성화시 출현하는 [정교한 보물상자]";
+        break;
+
+case "击碎木箱获得的【普通宝箱】无原石" :
+        prop.popupContent = "나무상자 파괴 후 오픈 가능한 [평범한 보물상자](원석 없음)";
+        break;
+
+case "这是一个射爆气球花出现的【精致宝箱】" :
+        prop.popupContent = "바람 슬라임 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个可以直接开启的【普通宝箱】无原石" :
+        prop.popupContent = "조건 없이 오픈 가능한 [평범한 보물상자](원석 없음)";
+        break;
+
+case "这是一个跟随小精灵出现的【精致宝箱】" :
+        prop.popupContent = "선령을 따라가면 출현하는 [정교한 보물상자]";
+        break;
+
+case "支线任务的奖励宝箱" :
+        prop.popupContent = "퀘스트 보상 보물상자";
+        break;
+
+case "拱门上面" :
+        prop.popupContent = "아치형 문 위쪽";
+        break;
+
+case "二楼船，打烂石头" :
+        prop.popupContent = "배 2층의 돌 부수기";
+        break;
+
+case "这是一个击败冰史莱姆解锁的【普通宝箱】无原石" :
+        prop.popupContent = "얼음 슬라임 처치 후 오픈 가능한 [평범한 보물상자](원석 없음)";
+        break;
+
+case "这是一个击败狂风之核解锁的【珍贵宝箱】" :
+        prop.popupContent = "광풍의 핵 처치 후 오픈 가능한 [진귀한 보물상자]";
+        break;
+
+case "琥珀宝箱（随机出现，直到你获得该宝箱）" :
+        prop.popupContent = "호박 보물상자 (랜덤리젠)";
+        break;
+
+case "这是一个璃月宝箱(打败狂风之核)" :
+        prop.popupContent = "광풍의 핵 처치 후 오픈 가능한 보물상자 이다";
+        break;
+
+case "至少击败两个小动物出现宝箱" :
+        prop.popupContent = "최소 2마리의 동물 처치 후 출현하는 보물상자 이다";
+        break;
+
+case "这是一个击碎岩石开启的【普通宝箱】" :
+        prop.popupContent = "바위 파괴 후 오픈 가능한 [평범한 보물상자]";
+        break;
+
+case "这是一个击败史莱姆解锁的【普通宝箱】无原石" :
+        prop.popupContent = "슬라임 처치 후 오픈 가능한 [평범한 보물상자](원석 없음)";
+        break;
+
+case "挖掘宝箱，倒地石像脚下" :
+        prop.popupContent = "보물상자(쓰러진 석상 아래에서 발굴)";
+        break;
+
+case "击败雷荧术士" :
+        prop.popupContent = "번개 치친 술사 처치";
+        break;
+
+case "踩上压感飞到远处发现宝箱" :
+        prop.popupContent = "발판을 밟아 출현하는 보물상자";
+        break;
+
+case "这是一个击败债务处理人解锁的【精致宝箱】" :
+        prop.popupContent = "채무 처리인 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个击败怪物解锁的【珍贵宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [진귀한 보물상자]";
+        break;
+
+case "击碎三处石堆出现的【普通宝箱】" :
+        prop.popupContent = "돌기둥 3개 파괴 후 오픈 가능한 [평범한 보물상자]";
+        break;
+
+case "这是一个跟随仙灵出现的【精致宝箱】" :
+        prop.popupContent = "선령을 따라가서 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个击碎岩石出现的【普通宝箱】 无原石" :
+        prop.popupContent = "파괴 가능한 바위 파괴 후 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case "飞翔吧！冲刺吧！" :
+        prop.popupContent = "날개를 펴고 돌진!";
+        break;
+
+case "这是三个璃月宝箱" :
+        prop.popupContent = "리월 보물상자 3개 이다";
+        break;
+
+case "这是一个击碎岩石开启的【普通宝箱】无原石" :
+        prop.popupContent = "파괴 가능한 바위 파괴 후 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case "打掉箭靶出现宝箱" :
+        prop.popupContent = "과녁을 맞추면 출현하는 보물상자";
+        break;
+
+case "这是一个被岩元素保护的【普通宝箱】无原石" :
+        prop.popupContent = "바위원소 상호 작용 후 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case "击败怪物获得的【精致宝箱】" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "把靶子打烂" :
+        prop.popupContent = "과녁 맞추기";
+        break;
+
+case "点燃内部三角火炬即可" :
+        prop.popupContent = "내부의 횃불에 불 붙이기";
+        break;
+
+case "这是一个击败债务处理人解锁的【精致宝箱】" :
+        prop.popupContent = "채무 처리인 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "从右侧窗户进去" :
+        prop.popupContent = "우측 창문으로 진입";
+        break;
+
+case "墙有缝，箱子在里面" :
+        prop.popupContent = "벽에 틈이 있으며 내부에 상자가 있다";
+        break;
+
+case "这是一个靠近后击败怪物出现的精致宝箱" :
+        prop.popupContent = "몬스터 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "咱躲在树底下" :
+        prop.popupContent = "나무 아래 숨어있다";
+        break;
+
+case "击败雷萤术士获得的【珍贵宝箱】" :
+        prop.popupContent = "번개 치친 술사 처치 후 오픈 가능한 [진귀한 보물상자]";
+        break;
+
+case "点燃！点燃！点燃！" :
+        prop.popupContent = "점화! 점화! 점화!";
+        break;
+
+case "击杀这只可怜无助的QQ人" :
+        prop.popupContent = "가엾고 쓸모없는 츄츄족을 죽여라";
+        break;
+
+case "打烂周围的桩" :
+        prop.popupContent = "주변의 말뚝을 부숴라";
+        break;
+
+case "这有三个璃月宝箱在洞里" :
+        prop.popupContent = "동굴속에 리월 보물상자 3개가 있다";
+        break;
+
+case "燃起来啦！" :
+        prop.popupContent = "불타오르라";
+        break;
+
+case "这是一个璃月宝箱1" :
+        prop.popupContent = "리월 보물상자 이다";
+        break;
+
+case "击碎岩块获得的【普通宝箱】无原石" :
+        prop.popupContent = "파괴 가능한 바위 파괴 후 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case "击败火史莱姆和深渊法师出现的精致宝箱" :
+        prop.popupContent = "화염 슬라임과 심연메이지 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "点燃火堆" :
+        prop.popupContent = "횃불에 불붙이기";
+        break;
+
+case "这是一个直接开启的【普通宝箱】 无原石" :
+        prop.popupContent = "조건 없이 오픈 가능한 [평범한 보물상자](원석없음)";
+        break;
+
+case "客栈假山宝箱" :
+        prop.popupContent = "객잔 보물상자";
+        break;
+
+case "击败幼岩龙蜥蜴解锁的【珍贵宝箱】" :
+        prop.popupContent = "새끼 바위 용 도마뱀 처치 후 오픈 가능한 [진귀한 보물상자]";
+        break;
+
+case "风史莱姆宝箱" :
+        prop.popupContent = "바람 슬라임 보물상자";
+        break;
+
+case "击杀此处史莱姆出现的【精致宝箱】" :
+        prop.popupContent = "바람 슬라임 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是需要挖掘的宝箱" :
+        prop.popupContent = "발굴로 획득 가능한 보물상자";
+        break;
+
+case "靠近才会出现" :
+        prop.popupContent = "가까히 가면 출현";
+        break;
+
+case "调查该处出现宝箱" :
+        prop.popupContent = "이 곳을 조사하면 보물상자 출현";
+        break;
+
+case "走到附近才出现的宝箱" :
+        prop.popupContent = "이 부근에서 보물상자 출현";
+        break;
+
+case "击败2只幼岩龙蜥解锁的【精致宝箱】" :
+        prop.popupContent = "새끼 바위 용 도마뱀 2마리 처치 후 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "每个伞上踩一下，击败所有史莱姆" :
+        prop.popupContent = "각 우산을 밟아 출현하는 슬라임을 처치";
+        break;
+
+case "这是一个挖掘出现的【精致宝箱】" :
+        prop.popupContent = "발굴로 오픈 가능한 [정교한 보물상자]";
+        break;
+
+case "这是一个璃月宝箱（水元素方杯）" :
+        prop.popupContent = "리월 보물상자 이다(얼음원소 필요)";
+        break;
+
+case "普通宝箱" :
+        prop.popupContent = "평범한 보물상자";
+        break;
+
+case "使用风元素把尘土堆全部清除" :
+        prop.popupContent = "바람 원소를 사용해 모든 먼지 청소";
+        break;
+
+case "由外圈到内圈" :
+        prop.popupContent = "바깥에서 안쪽으로 돌면 된다";
+        break;
+
+case "船上宝箱" :
+        prop.popupContent = "배 위의 보물상자";
+        break;
+
+case "岩封宝箱" :
+        prop.popupContent = "바위로 봉인된 보물상자";
+        break;
+
+case "屋旁宝箱" :
+        prop.popupContent = "방 안의 보물상자";
+        break;
+
+case "任务挖掘宝箱" :
+        prop.popupContent = "퀘스트 발굴 보물상자";
+        break;
+
+case "笼子附近宝箱" :
+        prop.popupContent = "새장 근처 보물상자";
+        break;
+
+case "解谜任务宝箱" :
+        prop.popupContent = "퍼즐 보물상자";
+        break;
+
+case "愚人众战斗宝箱" :
+        prop.popupContent = "우인단과 전투 후 얻는 보물상자";
+        break;
+
+case "盗宝团战斗宝箱" :
+        prop.popupContent = "보물 사냥꾼과 전투 후 얻는 보물상자";
+        break;
+
+case "烈焰！焚尽！" :
+        prop.popupContent = "맹렬한 화염이 타오른다!";
+        break;
+
+case "遗迹宝藏任务宝箱" :
+        prop.popupContent = "유적의 숨겨진 보물 임무 보물상자";
+        break;
+
+case " 遗迹宝藏挑战箱" :
+        prop.popupContent = "유적 도전 보물상자";
+        break;
+
+case "近才出现的宝箱" :
+        prop.popupContent = "가까이 가면 출현하는 보물상자";
+        break;
+
+case "任务宝箱" :
+        prop.popupContent = "퀘스트 보물상자";
+        break;
+
+case "风属性驱散尘土然后挖掘" :
+        prop.popupContent = "바람원소를 사용해 먼지 청소 후 발굴";
+        break;
+
+case "这是一个需要挖掘的宝箱" :
+        prop.popupContent = "발굴을 통해 오픈 가능한 보물상자";
+        break;
+
+case "这是一个珍贵的宝箱。需要击杀先遣队解锁" :
+        prop.popupContent = "진귀한 보물상자, 우인단 처치후 획득 가능";
+        break;
+
+case "九柱任务宝箱" :
+        prop.popupContent = "아홉 기둥 퀘스트 보물상자";
+        break;
+
+case "打破石堆" :
+        prop.popupContent = "돌 무더기 파괴";
+        break;
+
+case "挖掘宝箱" :
+        prop.popupContent = "발굴 보물상자";
+        break;
+
+case "丹迪飞行限时挑战" :
+        prop.popupContent = "비행 타임어택 보물상자";
+        break;
+
+case "挖掘" :
+        prop.popupContent = "발굴";
+        break;
+
+case "触发两边的重力机关获取" :
+        prop.popupContent = "2개의 무게 발판 작동후 획득";
+        break;
+
+case "这是一个做完孤云阁调查任务之后出现的遗迹猎手守卫的宝箱" :
+        prop.popupContent = "고운각 임무 완수 후 출현하는 유적 헌터와 가디언 보물상자";
+        break;
+
+case "北国银行内藏20w摩拉的宝箱" :
+        prop.popupContent = "북국은행 20만 모라 상자";
+        break;
+
+case "这是一个琉璃袋" :
+        prop.popupContent = "유리 주머니 이다";
+        break;
+
+case "这有俩琉璃袋" :
+        prop.popupContent = "유리 주머니 2개 있음";
+        break;
+
+case "这琉璃袋藏在石头里" :
+        prop.popupContent = "바위 안에 유리 주머니";
+        break;
+
+case "此处应有3个左右的盗宝团成员" :
+        prop.popupContent = "보물사냥꾼 3마리가 있다";
+        break;
+
+case "此处应有2个盗宝团成员" :
+        prop.popupContent = "보물사냥꾼 2마리가 있다";
+        break;
+
+case "这是有一个冰霜骗骗花" :
+        prop.popupContent = "얼음 구라구라 꽃 1마리 이다";
+        break;
+
+case "这是有一个火焰骗骗花" :
+        prop.popupContent = "화염 구라구라 꽃 1마리 이다";
+        break;
+
+case "捡完甜甜花后出现的冰霜骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "捡完小灯草出现的冰霜骗骗花" :
+        prop.popupContent = "등불꽃 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "捡了薄荷之后出现的冰霜骗骗花" :
+        prop.popupContent = "허브 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "捡了薄荷出现的冰霜骗骗花" :
+        prop.popupContent = "허브 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "采集冰雾花出现的冰霜骗骗花" :
+        prop.popupContent = "얼음 꽃 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "这是有一个调查甜甜花出现的冰霜骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "捡取3个甜甜花后出现" :
+        prop.popupContent = "달콤달콤 꽃 3개 수집 후 출현";
+        break;
+
+case "捡了甜甜花之后出现的骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 구라구라 꽃";
+        break;
+
+case "这是一个骗骗花" :
+        prop.popupContent = "구라구라 꽃 1마리 이다";
+        break;
+
+case "捡了甜甜花出现的骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 구라구라 꽃";
+        break;
+
+case "调查甜甜花出现的烈焰骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 화염 구라구라 꽃";
+        break;
+
+case "调查甜甜花出现的一个烈焰骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 화염 구라구라 꽃";
+        break;
+
+case "调查甜甜花出现的【冰霜骗骗花】" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 [얼음 구라구라 꽃]";
+        break;
+
+case "这是一个调查甜甜花出现的冰骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 [얼음 구라구라 꽃]";
+        break;
+
+case "这是一个调查甜甜花出现的烈焰骗骗花" :
+        prop.popupContent = "달콤달콤 꽃 수집 후 출현하는 [얼음 구라구라 꽃]";
+        break;
+
+case "这是一个调查小灯草出现的冰骗骗花" :
+        prop.popupContent = "등불꽃 수집 후 출현하는 얼음 구라구라 꽃";
+        break;
+
+case "这是一个愚人众先遣队" :
+        prop.popupContent = "우인단 무리";
+        break;
+
+case "一只山下矿洞里的幼岩龙蜥" :
+        prop.popupContent = "산 아래 광산의 새끼 바위 용 도마뱀";
+        break;
+
+case "一只幼岩龙蜥" :
+        prop.popupContent = "새끼 바위 용 도마뱀";
+        break;
+
+case "一坨萌萌哒史莱姆酱" :
+        prop.popupContent = "헤으응 슬라임쨩";
+        break;
+
+case "一坨萌萌哒火史莱姆酱" :
+        prop.popupContent = "헤으응 화염 슬라임쨩";
+        break;
+
+case "一坨萌萌哒的火史莱姆酱" :
+        prop.popupContent = "헤으응 화염 슬라임쨩";
+        break;
+
+case "这里大概有三个史莱姆" :
+        prop.popupContent = "대충 슬라임 3마리";
+        break;
+
+case "这里有一个大草史莱姆" :
+        prop.popupContent = "풀 슬라임 1마리";
+        break;
+
+case "这里是山洞下的史莱姆" :
+        prop.popupContent = "";
+        break;
+
+case "这里是山洞下的史莱姆" :
+        prop.popupContent = "동굴아래 슬라임";
+        break;
+
+case "这里有两只冰史莱姆" :
+        prop.popupContent = "2마리 얼음 슬라임";
+        break;
+
+case "这里大概有三个冰史莱姆" :
+        prop.popupContent = "얼음 슬라임 3마리";
+        break;
+
+case "这是一株清心" :
+        prop.popupContent = "청심 1개 이다";
+        break;
+
+case "这是一个莲蓬" :
+        prop.popupContent = "연꽃받침 1개 이다";
+        break;
+
+case "这是一个星螺" :
+        prop.popupContent = "별소라 1개 이다";
+        break;
+
+case "这是一株小灯草" :
+        prop.popupContent = "등불꽃 1개 이다";
+        break;
+
+case "这是一朵冰雾花" :
+        prop.popupContent = "얼음꽃 1개 이다";
+        break;
+
+case "这是一朵烈焰花" :
+        prop.popupContent = "화염꽃 1개 이다";
+        break;
+
+case "这是一颗电气水晶" :
+        prop.popupContent = "전기수정 1개 이다";
+        break;
+
+case "这是一块电气水晶" :
+        prop.popupContent = "전기수정 1개 이다";
+        break;
+
+case "这是一只盗宝鼬，即使在夜里也闪闪发光，一刀下去一定很值钱吧~" :
+        prop.popupContent = 보물족제비 출현함, 밤중에도 반짝반짝 빛남 단칼에 썰어서 모라벌자.";
+        break;
+
+case "（推荐使用强制锁定的法师型角色……" :
+        prop.popupContent = "법구 캐릭 추천";
+        break;
+
+case "捕捉萤火虫可以获得一个发光髓" :
+        prop.popupContent = "반딧불이를 잡아서 반딧불 정수를 얻을 수 있다";
+        break;
+
+case "这是一只风晶蝶" :
+        prop.popupContent = "바람 수정 나비";
+        break;
+
+case "这里有一只岩晶蝶" :
+        prop.popupContent = "바위 수정 나비";
+        break;
+
+case "在上空有一只岩晶蝶" :
+        prop.popupContent = "하늘위에 바위 수정 나비";
+        break;
+
+case "山洞中关卡入口旁边有一只岩晶蝶" :
+        prop.popupContent = "입구 부근에 바위 수정 나비";
+        break;
+
+case "这里有一株金鱼草" :
+        prop.popupContent = "금어초 1개 이다";
+        break;
+
+case "这里是一株金鱼草" :
+        prop.popupContent = "금어초 1개 이다";
+        break;
+
+case "这里有一只蝴蝶" :
+        prop.popupContent = "나비 1마리 이다";
+        break;
+
+case "这是一只螃蟹" :
+        prop.popupContent = "게 1마리 이다";
+        break;
+
+case "这里有一只青蛙" :
+        prop.popupContent = "청개구리 1마리 이다";
+        break;
+
+case "这是一朵蒙德甜甜花" :
+        prop.popupContent = "달콤달콤 꽃 1개 이다";
+        break;
+
+case "这是一颗长在野外的松茸" :
+        prop.popupContent = "송이버섯 1개 이다";
+        break;
+
+case "这是一颗野生松茸" :
+        prop.popupContent = "야생 송이버섯 1개";
+        break;
+
+case "这是一块兽肉" :
+        prop.popupContent = "짐승고기 1개";
+        break;
+
+case "这是一头野猪" :
+        prop.popupContent = "멧돼지 1마리";
+        break;
+
+case "这是一只狐狸" :
+        prop.popupContent = "여우 1마리";
+        break;
+
+case "这里有一只野猪" :
+        prop.popupContent = "멧돼지 1마리";
+        break;
+
+case "这是一块禽肉" :
+        prop.popupContent = "새고기 1개";
+        break;
+
+case "这里有一只鸭子" :
+        prop.popupContent = "오리 1마리";
+        break;
+
+case "这里一只鸭子" :
+        prop.popupContent = "오리 1마리";
+        break;
+
+case "这里有两只鸭子" :
+        prop.popupContent = "오리 2마리";
+        break;
+
+case "一条鱼" :
+        prop.popupContent = "물고기 1마리";
+        break;
+
+case "一条蓝鳍鲈鱼" :
+        prop.popupContent = "파란 농어 1마리";
+        break;
+
+case "一条黄金鲈鱼" :
+        prop.popupContent = "황금 농어 1마리";
+        break;
+
+case "一条鱼" :
+        prop.popupContent = "물고기 1마리";
+        break;
+
+case "这里有一根白萝卜" :
+        prop.popupContent = "무 1개 이다";
+        break;
+
+case "这里有一根胡萝卜" :
+        prop.popupContent = "당근 1개 이다";
+        break;
+
+case "这是一个松果" :
+        prop.popupContent = "솔방울 1개 이다";
+        break;
+
+case "这是一个树莓" :
+        prop.popupContent = "라즈베리 1개 이다";
+        break;
+
+case "这里有两只一般丘丘人" :
+        prop.popupContent = "츄츄족 잡병 2마리";
+        break;
+
+case "这里有一只丘丘萨满" :
+        prop.popupContent = "츄츄족 샤먼 1마리";
+        break;
+
+case "这是一个大伟丘" :
+        prop.popupContent = "일곱신상";
+        break;
+
+case "渌华景画任务宝箱" :
+        prop.popupContent = "녹화 연못 퀘스트 임무 보물상자";
+        break;
+
+case "这是一只扑棱蛾子" :
+        prop.popupContent = "나방이다";
+        break;
+
+case "剑冢世界任务宝箱" :
+        prop.popupContent = "검의 봉인 퀘스트 보물상자";
+        break;
