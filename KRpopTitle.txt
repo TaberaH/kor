@@ -1,8 +1,195 @@
-
-case "风神瞳" :
-        prop.popTitle = "바람신의 눈동자";
+case "绝云椒椒" :
+        prop.popTitle = "절운고추";
         break;
 
-case "岩神瞳" :
-        prop.popTitle = "바위신의 눈동자";
+case "霓裳花" :
+        prop.popTitle = "예상꽃";
+        break;
+
+case "琉璃百合" :
+        prop.popTitle = "유리백합";
+        break;
+
+case "钩钩果" :
+        prop.popTitle = "고리고리열매";
+        break;
+
+case "嘟嘟莲" :
+        prop.popTitle = "통통연꽃";
+        break;
+
+case "塞西莉亚花" :
+        prop.popTitle = "세실리아꽃";
+        break;
+
+case "慕风蘑菇" :
+        prop.popTitle = "바람버섯";
+        break;
+
+case "落落梅" :
+        prop.popTitle = "낙낙베리";
+        break;
+
+case "风车菊" :
+        prop.popTitle = "풍차국화";
+        break;
+
+case "蒲公英籽" :
+        prop.popTitle = "민들레 씨앗";
+        break;
+
+case "夜泊石" :
+        prop.popTitle = "야박석";
+        break;
+
+case "地灵龛" :
+        prop.popTitle = "지령감실";
+        break;
+
+case "石珀" :
+        prop.popTitle = "콜 라피스";
+        break;
+
+case "水晶矿" :
+        prop.popTitle = "수정덩이";
+        break;
+
+case "白铁矿" :
+        prop.popTitle = "백철";
+        break;
+
+case "遗迹守卫" :
+        prop.popTitle = "유적 가디언";
+        break;
+
+case "遗迹猎者" :
+        prop.popTitle = "유적 헌터";
+        break;
+
+case "雷萤术士" :
+        prop.popTitle = "번개 치친 술사";
+        break;
+
+case "债务处理人" :
+        prop.popTitle = "채무처리인";
+        break;
+
+case "深渊法师" :
+        prop.popTitle = "심연 메이지";
+        break;
+
+case "蒙德宝箱" :
+        prop.popTitle = "몬드 보물상자";
+        break;
+
+case "引路仙灵" :
+        prop.popTitle = "선령";
+        break;
+
+case "限时挑战" :
+        prop.popTitle = "시간제한 도전";
+        break;
+
+case "璃月宝箱" :
+        prop.popTitle = "리월 보물상자";
+        break;
+
+case "琉璃袋" :
+        prop.popTitle = "유리주머니";
+        break;
+
+case "大型丘丘人" :
+        prop.popTitle = "츄츄 바위왕";
+        break;
+
+case "盗宝团" :
+        prop.popTitle = "보물 사냥꾼";
+        break;
+
+case "骗骗花-蒙德" :
+        prop.popTitle = "구라구라꽃-몬드";
+        break;
+
+case "骗骗花-璃月" :
+        prop.popTitle = "구라구라꽃-리월";
+        break;
+
+case "蒙德先遣队" :
+        prop.popTitle = "몬드 우인단";
+        break;
+
+case "先遣队" :
+        prop.popTitle = "우인단";
+        break;
+
+case "璃月幼岩龙蜥" :
+        prop.popTitle = "리월 새끼 바위 용 도마뱀";
+        break;
+
+case "史莱姆" :
+        prop.popTitle = "슬라임";
+        break;
+
+case "清心" :
+        prop.popTitle = "청심";
+        break;
+
+case "马尾-璃月特产" :
+        prop.popTitle = "말총";
+        break;
+
+case "莲蓬" :
+        prop.popTitle = "연꽃 받침";
+        break;
+
+case "星螺" :
+        prop.popTitle = "별소라";
+        break;
+
+case "小灯草" :
+        prop.popTitle = "등불꽃";
+        break;
+
+case "冰雾花" :
+        prop.popTitle = "서리꽃";
+        break;
+
+case "烈焰花" :
+        prop.popTitle = "화염꽃";
+        break;
+
+case "电气水晶" :
+        prop.popTitle = "전기수정";
+        break;
+
+case "盗宝鼬" :
+        prop.popTitle = "보물 족제비";
+        break;
+
+case "萤火虫" :
+        prop.popTitle = "반딧불";
+        break;
+
+case "风晶蝶" :
+        prop.popTitle = "바람 수정 나비";
+        break;
+
+case "岩晶蝶" :
+        prop.popTitle = "바위 수정 나비";
+        break;
+
+case "金鱼草-蒙德" :
+        prop.popTitle = "금어초-몬드";
+        break;
+
+case "金鱼草" :
+        prop.popTitle = "금어초";
+        break;
+
+case " 蝴蝶翅膀" :
+        prop.popTitle = "나비 날개";
+        break;
+
+case "螃蟹" :
+        prop.popTitle = "게";
         break;
