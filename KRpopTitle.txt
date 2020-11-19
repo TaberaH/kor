@@ -94,10 +94,15 @@ case "璃月宝箱" :
         prop.popTitle = "리월 보물상자";
         break;
 
+case "风神瞳" :
+        prop.popTitle = "바람신의 눈동자";
 case "琉璃袋" :
         prop.popTitle = "유리주머니";
         break;
 
+case "岩神瞳" :
+        prop.popTitle = "바위신의 눈동자";
+        break;
 case "大型丘丘人" :
         prop.popTitle = "츄츄 바위왕";
         break;
@@ -192,4 +197,64 @@ case " 蝴蝶翅膀" :
 
 case "螃蟹" :
         prop.popTitle = "게";
+        break;
+
+case "青蛙-璃月" :
+        prop.popTitle = "청개구리-리월";
+        break;
+
+case "甜甜花" :
+        prop.popTitle = "달콤달콤 꽃";
+        break;
+
+case "松茸" :
+        prop.popTitle = "송이버섯";
+        break;
+
+case "兽肉" :
+        prop.popTitle = "짐승고기";
+        break;
+
+case "野猪" :
+        prop.popTitle = "멧돼지";
+        break;
+
+case "禽肉-璃月" :
+        prop.popTitle = "새고기-리월";
+        break;
+
+case "禽肉" :
+        prop.popTitle = "새고기";
+        break;
+
+case "鱼肉" :
+        prop.popTitle = "생선살";
+        break;
+
+case "白萝卜-蒙德" :
+        prop.popTitle = "흰 무-몬드";
+        break;
+
+case "胡萝卜-蒙德" :
+        prop.popTitle = "당근-몬드";
+        break;
+
+case "松果" :
+        prop.popTitle = "솔방울";
+        break;
+
+case "树莓" :
+        prop.popTitle = "라즈베리";
+        break;
+
+case "丘丘人" :
+        prop.popTitle = "츄츄족";
+        break;
+
+case "丘丘萨满" :
+        prop.popTitle = "츄츄족 샤먼";
+        break;
+
+case "大伟丘" :
+        prop.popTitle = "일곱신상";
         break;
